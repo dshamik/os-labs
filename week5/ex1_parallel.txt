@@ -1,0 +1,30 @@
+new thread 1 is created
+new thread 2 is created
+new thread 3 is created
+new thread 4 is created
+salam aleykum from thread number 1
+salam aleykum from thread number 4
+salam aleykum from thread number 3
+new thread 5 is created
+salam aleykum from thread number 2
+new thread 6 is created
+salam aleykum from thread number 5
+new thread 7 is created
+salam aleykum from thread number 6
+new thread 8 is created
+new thread 9 is created
+salam aleykum from thread number 8
+new thread 10 is created
+salam aleykum from thread number 7
+salam aleykum from thread number 9
+salam aleykum from thread number 10
+aleykum as-salam from thread number 1
+aleykum as-salam from thread number 2
+aleykum as-salam from thread number 3
+aleykum as-salam from thread number 4
+aleykum as-salam from thread number 5
+aleykum as-salam from thread number 6
+aleykum as-salam from thread number 7
+aleykum as-salam from thread number 8
+aleykum as-salam from thread number 9
+aleykum as-salam from thread number 10
