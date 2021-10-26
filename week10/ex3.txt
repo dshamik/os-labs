@@ -1,0 +1,6 @@
+-rw-rw-rw-  1 dinar  staff  19 26 окт 22:52 _ex3.txt
+-rwx---rwx  1 dinar  staff  19 26 окт 22:52 _ex3.txt
+-rwxrwxrwx  1 dinar  staff  19 26 окт 22:52 _ex3.txt
+660 - owner: read, write; group: read, write; others: nothing
+775 - owner: read, write, execute; group: read, write, execute; others: read, execute
+777 - owner: read, write, execute; group: read, write, execute; others: read, write, execute
